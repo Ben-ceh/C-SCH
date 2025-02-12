@@ -1,0 +1,8 @@
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\Feladat_36\Feladatok\bin\Debug\Feladatok.exe.config
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\Feladat_36\Feladatok\bin\Debug\Feladatok.exe
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\Feladat_36\Feladatok\bin\Debug\Feladatok.pdb
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\Feladat_36\Feladatok\obj\Debug\Feladatok.csproj.AssemblyReference.cache
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\Feladat_36\Feladatok\obj\Debug\Feladatok.csproj.SuggestedBindingRedirects.cache
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\Feladat_36\Feladatok\obj\Debug\Feladatok.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\Feladat_36\Feladatok\obj\Debug\Feladatok.exe
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\Feladat_36\Feladatok\obj\Debug\Feladatok.pdb
